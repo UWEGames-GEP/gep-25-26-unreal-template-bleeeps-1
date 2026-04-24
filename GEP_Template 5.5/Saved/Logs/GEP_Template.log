@@ -4644,3 +4644,23 @@ Sampler Limit: 32
 [2026.04.24-22.52.38:307][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.24-22.52.38:308][789]AssetCheck: /Game/Widgets/W_UI Validating asset
 [2026.04.24-22.52.52:089][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B95529967-41E9-1CEF-01D9-93BD97F50D72%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: request failed, libcurl error: 0 (No error)
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 0 (Found bundle for host: 0xa29c7880990 [serially])
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 2 (  Trying 104.18.124.108:443...)
+[2026.04.24-22.53.00:370][ 16]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 3 (connect to 104.18.124.108 port 443 failed: Timed out)
+[2026.04.24-22.53.00:370][ 17]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 4 (  Trying 104.18.125.108:443...)
+[2026.04.24-22.53.00:370][ 17]LogEOSSDK: Warning: LogHttp: 00000A2A46440000: libcurl info message cache 5 (Closing connection)
+[2026.04.24-22.53.00:370][ 17]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B95529967-41E9-1CEF-01D9-93BD97F50D72%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: request failed, libcurl error: 0 (No error)
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 0 (Found bundle for host: 0xa29c7880990 [serially])
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 2 (  Trying 104.18.124.108:443...)
+[2026.04.24-22.53.07:039][ 36]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 3 (connect to 104.18.124.108 port 443 failed: Timed out)
+[2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 4 (  Trying 104.18.125.108:443...)
+[2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogHttp: 00000A2A46443000: libcurl info message cache 5 (Closing connection)
+[2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2026.04.24-22.53.07:372][ 37]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.261940 seconds
