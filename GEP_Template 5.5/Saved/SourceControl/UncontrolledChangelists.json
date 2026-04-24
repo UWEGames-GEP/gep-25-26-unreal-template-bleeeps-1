@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexg/Desktop/Uni/gep-25-26-unreal-template-bleeeps-1/GEP_Template 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/alexg/Desktop/Uni/gep-25-26-unreal-template-bleeeps-1/GEP_Template 5.5/Content/Widgets/W_UI.uasset",
+				"C:/Users/alexg/Desktop/Uni/gep-25-26-unreal-template-bleeeps-1/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
