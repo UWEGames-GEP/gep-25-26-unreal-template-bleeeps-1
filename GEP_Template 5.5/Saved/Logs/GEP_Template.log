@@ -4664,3 +4664,4 @@ Sampler Limit: 32
 [2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
 [2026.04.24-22.53.07:039][ 37]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
 [2026.04.24-22.53.07:372][ 37]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.261940 seconds
+[2026.04.24-22.53.14:375][ 58]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3164.430420
